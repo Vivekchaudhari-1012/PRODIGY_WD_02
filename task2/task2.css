@@ -1,0 +1,39 @@
+body {
+    background-color: rgb(140, 196, 228);
+    text-align: center;
+}
+#style{
+    width: 30%;
+    background-color: yellow;
+    border-radius: 4px;
+    margin: 100px auto;
+    padding: 10px 10px;
+}
+h1 {
+    font-family: sans-serif;
+    color: blue;
+}
+#Stopwatch {
+    font-size: 100px;
+    padding-bottom: 20px;
+}
+#button {
+    padding: 20px;
+}
+button {
+    padding: 5px 10px;
+    margin: 5px;
+    border-radius: 4px;
+    background-color: rgb(132, 0, 255);
+    color: whitesmoke;
+    cursor: pointer;
+}
+.btn:hover {
+    background-color: blueviolet;
+    color: white;
+}
+#laps{
+    color:rgb(255, 0, 0);
+    font-size: 30px;
+    font-weight: bold;
+}
